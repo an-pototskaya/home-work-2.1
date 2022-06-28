@@ -1,0 +1,63 @@
+body {
+    background-color: #EFEEEF;
+}
+
+.header {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+}
+
+main {
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: 400;
+}
+
+.header__title {
+    margin: 20px 0;
+    text-align: center;
+    font-size: 30px;
+}
+
+.personal-info {
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(226,226,226,1) 35%, rgba(158,158,158,1) 100%);
+    border: 3px solid;
+    color: black;
+    margin: 20px 15px;
+}
+
+.personal-info__title {
+    margin: 20px;
+    color: #003FA3;
+    font-size: 22px;
+}
+
+.personal-info__list {
+    list-style-type: none;
+}
+
+.personal-info__item {
+    margin: 8px;
+    font-size: 18px; 
+}
+
+.education {
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(208,208,208,1) 35%, rgba(129,133,128,1) 100%);
+    border: 3px solid;
+    color: black;
+    margin: 20px 15px;
+}
+
+.education__title {
+    margin: 20px;
+    color: #003FA3;
+    font-size: 22px;
+}
+
+.education__list {
+    list-style-type: none;
+}
+
+.education__item {
+    margin: 8px;
+    font-size: 18px;   
+}
